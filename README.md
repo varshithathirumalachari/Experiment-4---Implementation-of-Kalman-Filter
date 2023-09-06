@@ -1,4 +1,4 @@
-# Experiment-6---Implementation-of-Kalman-Filter
+# Ex No. 6 Implementation of Kalman Filter
 
 ## Aim:
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
